@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Asif Jamil
 
-<!--
-**Asif-Jamil-2277/Asif-Jamil-2277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Digital Marketer | Web Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+I build digital experiences by combining modern web technologies, creative design, digital marketing, and AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Developing responsive websites and reusable UI components
+- Exploring AI tools, prompt engineering, and workflow automation
+- Working on digital marketing, SEO, graphic design, and content creation
+- Continuously learning through practical projects
+
+### Technologies & Tools
+
+**Web Development**
+HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · Tailwind CSS
+
+**UI & Design**
+shadcn/ui · Canva · Graphic Design · Responsive UI Design
+
+**Digital Marketing**
+SEO · Content Strategy · Social Media Marketing · Analytics
+
+**AI & Automation**
+Prompt Engineering · AI-Powered Workflows · Workflow Automation
+
+### Current Focus
+
+- Building reusable web components
+- Improving frontend development skills
+- Exploring practical AI integrations
+- Creating useful digital solutions for businesses
+
+### Featured Projects
+
+Explore my repositories to see my development work and experiments.
+
+### Connect
+
+- GitHub: [@Asif-Jamil-2277](https://github.com/Asif-Jamil-2277)
+
+---
+
+*Build. Learn. Improve. Repeat.*
